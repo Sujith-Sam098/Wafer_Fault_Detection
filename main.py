@@ -9,7 +9,7 @@ from training_Validation_Insertion import train_validation
 import flask_monitoringdashboard as dashboard
 from predictFromModel import prediction
 import json
-#comment
+
 os.putenv('LANG', 'en_US.UTF-8')
 os.putenv('LC_ALL', 'en_US.UTF-8')
 
